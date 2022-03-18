@@ -53,6 +53,3 @@ Please cite our paper if it is helpful to your work:
   year={2022}
 }
 ```
-=======
-# MRDC
->>>>>>> 3144bf10d51afb3655b6e7db3a99b4a0cafae825
