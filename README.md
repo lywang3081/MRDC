@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # [Memory Replay with Data Compression for Continual Learning]() 
 
 ------
