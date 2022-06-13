@@ -1,4 +1,4 @@
-# [Memory Replay with Data Compression for Continual Learning]() 
+# [Memory Replay with Data Compression for Continual Learning (ICLR2022)]() 
 
 ------
 This code is the official implementation of our paper.
@@ -59,10 +59,10 @@ LUCIR w/ MRDC 10-phase:		75.94	72.6	70.48	68.24	66.22	64.67	62.91	61.26	60.01	58
 Please cite our paper if it is helpful to your work:
 
 ```bibtex
-@article{wang2022memory,
+@inproceedings{wang2021memory,
   title={Memory Replay with Data Compression for Continual Learning},
-  author={Wang, Liyuan and Zhang, Xingxing and Yang, Kuo and Yu, Longhui and Li, Chongxuan and Hong, Lanqing and Zhang, Shifeng and Li, Zhenguo and Zhong, Yi and Zhu, Jun},
-  journal={arXiv preprint arXiv:2202.06592},
-  year={2022}
+  author={Wang, Liyuan and Zhang, Xingxing and Yang, Kuo and Yu, Longhui and Li, Chongxuan and Lanqing, HONG and Zhang, Shifeng and Li, Zhenguo and Zhong, Yi and Zhu, Jun},
+  booktitle={International Conference on Learning Representations},
+  year={2021}
 }
 ```
