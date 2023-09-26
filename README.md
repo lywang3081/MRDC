@@ -1,4 +1,4 @@
-# [Memory Replay with Data Compression for Continual Learning (ICLR2022)]() 
+# [Memory Replay with Data Compression for Continual Learning (ICLR 2022)]() 
 
 ------
 This code is the official implementation of our paper.
